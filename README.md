@@ -53,8 +53,8 @@ I am a recent Computer Science Master's graduate from **Georgia Tech** (GPA 3.85
 
 ## 📈 GitHub Stats
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccoonOnion&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonOnion&layout=compact&theme=radical)
+![Ryan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RaccoonOnion&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaccoonOnion&layout=compact&theme=radical)
 
 ---
 
