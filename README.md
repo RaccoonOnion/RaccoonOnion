@@ -51,13 +51,6 @@ I am a recent Computer Science Master's graduate from **Georgia Tech** (GPA 3.85
 
 ---
 
-## 📈 GitHub Stats
-
-![Ryan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RaccoonOnion&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaccoonOnion&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/ryan-yunxiang-yan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-yunxiang-yan" height="30" width="40" /></a>
