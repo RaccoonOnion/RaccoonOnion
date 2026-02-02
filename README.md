@@ -1,57 +1,17 @@
 # Hi there! I'm Ryan (Yunxiang) Yan 👋
 
 ## 🚀 About Me
-I am a recent Computer Science Master's graduate from **Georgia Tech** (GPA 3.85/4.0), actively seeking **Software Engineering (SWE)** and **Machine Learning Engineering (MLE)** opportunities. My passion lies in building scalable systems and developing intelligent solutions, with a particular focus on **AI, Large Language Models (LLMs), and Deep Learning**.
 
-- 🎓 **Education**: M.S. in Computer Science from **Georgia Institute of Technology** (2025)
-- 🔭 **I’m currently working on**: **GTLLMZoo**, a full-stack benchmarking platform for LLMs
-- 🌱 **I’m currently learning**: Distributed Training, Advanced RAG pipelines, vLLM
+- 🎓 **Education**: M.S. in Computer Science from **Georgia Tech** (GPA 3.85/4.0)
+- 🔭 **Working on**: **[GTLLMZoo](https://github.com/git-disl/GTLLMZoo)**, a full-stack benchmarking platform for LLMs
+- 🌱 **Learning**: Distributed Training, Advanced RAG pipelines, vLLM
+- 💡 **Interests**: **AI, Large Language Models (LLMs), and Deep Learning**
+- 💼 **Looking for**: Software Engineering (SWE) and Machine Learning Engineering (MLE) roles
 - 🏆 **Achievements**: Kaggle Master (Top 0.3%), Gold Medal in LLM Agent System Competition
-- 📫 **How to reach me**: [ryan.yan.it@gmail.com](mailto:ryan.yan.it@gmail.com)
-
----
+- 📫 **Reach me at**: ryan.yan.it@gmail.com
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 [GTLLMZoo](https://github.com/git-disl/GTLLMZoo)
-- **Description**: Project Lead for a full-stack benchmarking platform that visualizes LLM performance metrics. Engineered automated backend scrapers for LiveBench/LMSYS data ingestion and built an interactive frontend using Gradio.
-- **Tech Stack**: Python, Gradio, Hugging Face Spaces, Docker
-- **Role**: Project Lead & Core Developer
-
-### 🏆 [LLM Agent System for 20 Questions (Kaggle Gold Medal)](https://www.kaggle.com/competitions/llm-20-questions/writeups/full-power-agent-10th-place-solution-a-90-coverage)
-- **Description**: Engineered a robust decision-making engine using **Phi-3** with a binary search algorithm adapted for natural language. Built a scalable ETL pipeline to parse Wikipedia dumps into a 2M+ vocabulary database.
-- **Achievement**: **Gold Medal Winner (Top 1%, 10/832 teams)**
-- **Tech Stack**: Phi-3, GPT-4o mini, Python, ETL Pipelines
-
----
-
-## 🔗 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/ryan-yunxiang-yan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-yunxiang-yan" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-293693?style=for-the-badge&logoColor=white) ![Distributed Training](https://img.shields.io/badge/Distributed_Training-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-181717?style=for-the-badge&logo=microservices&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
