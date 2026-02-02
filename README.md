@@ -54,5 +54,4 @@ I am a recent Computer Science Master's graduate from **Georgia Tech** (GPA 3.85
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/ryan-yunxiang-yan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-yunxiang-yan" height="30" width="40" /></a>
-<a href="mailto:ryan.yan.it@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-gmail.svg" alt="ryan.yan.it@gmail.com" height="30" width="40" /></a>
 </p>
