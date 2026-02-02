@@ -44,7 +44,7 @@ I am a recent Computer Science Master's graduate from **Georgia Tech** (GPA 3.85
 - **Tech Stack**: Python, Gradio, Hugging Face Spaces, Docker
 - **Role**: Project Lead & Core Developer
 
-### 🏆 [LLM Agent System for 20 Questions (Kaggle Gold Medal)](https://www.kaggle.com/)
+### 🏆 [LLM Agent System for 20 Questions (Kaggle Gold Medal)](https://www.kaggle.com/competitions/llm-20-questions/writeups/full-power-agent-10th-place-solution-a-90-coverage)
 - **Description**: Engineered a robust decision-making engine using **Phi-3** with a binary search algorithm adapted for natural language. Built a scalable ETL pipeline to parse Wikipedia dumps into a 2M+ vocabulary database.
 - **Achievement**: **Gold Medal Winner (Top 1%, 10/832 teams)**
 - **Tech Stack**: Phi-3, GPT-4o mini, Python, ETL Pipelines
